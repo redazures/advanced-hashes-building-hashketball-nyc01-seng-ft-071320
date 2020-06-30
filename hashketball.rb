@@ -51,7 +51,7 @@ def game_hash
         },
         {
           player_name:"Alan Anderson",
-          number: "Reggie Evans",
+          number:10,
           shoe:16,
           points:22,
           rebounds:12,
