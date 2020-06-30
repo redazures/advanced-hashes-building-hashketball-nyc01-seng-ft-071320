@@ -12,7 +12,7 @@ def game_hash
     #   team_name: "Brooklyn Nets",
     #   colors:["Black","White"],
     #   players:[
-    # 
+    #
     #   ]
     # }
   }
