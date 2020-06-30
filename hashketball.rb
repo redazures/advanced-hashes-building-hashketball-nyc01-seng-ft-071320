@@ -18,7 +18,7 @@ def game_hash
         },
         {
           player_name:"Alan Anderson",
-          number: "Reggie Evans",
+          number:0,
           shoe:16,
           points:22,
           rebounds:12,
@@ -29,7 +29,7 @@ def game_hash
         },
         {
           player_name:"Alan Anderson",
-          number: "Reggie Evans",
+          number:0,
           shoe:16,
           points:22,
           rebounds:12,
@@ -40,7 +40,7 @@ def game_hash
         },
         {
           player_name:"Alan Anderson",
-          number: "Reggie Evans",
+          number:0,
           shoe:16,
           points:22,
           rebounds:12,
@@ -51,7 +51,7 @@ def game_hash
         },
         {
           player_name:"Alan Anderson",
-          number:10,
+          number:0,
           shoe:16,
           points:22,
           rebounds:12,
@@ -60,7 +60,6 @@ def game_hash
           blocks:1,
           slam_dunks:1
         },
-      ]
     },
     away:{
       team_name: "Brooklyn Nets",
