@@ -8,7 +8,7 @@ def game_hash
 
       ]
     }#,
-    # :away{
+    # away:{
     #   team_name: "Brooklyn Nets",
     #   colors:["Black","White"],
     #   players:[
